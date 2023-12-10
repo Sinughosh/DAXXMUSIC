@@ -12,13 +12,13 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME","shadow2ndsupremex")
+OWNER_USERNAME = getenv("OWNER_USERNAME","shadow_2nd_supreme)
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "CuteMomoixbot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Cute_Momo_ixbot")
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "Yumikoo")
+BOT_NAME = getenv("BOT_NAME" , "momo")
 #get Your Assistant User name
-ASSUSERNAME = getenv("ASSUSERNAME" , "MissYumikoo")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Sofia_music_x")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
