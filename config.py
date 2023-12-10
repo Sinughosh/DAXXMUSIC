@@ -12,7 +12,7 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME","shadow_2nd_supreme)
+OWNER_USERNAME = getenv("OWNER_USERNAME","shadow_2nd_supreme")
 # Get Your bot username
 BOT_USERNAME = getenv("BOT_USERNAME" , "Cute_Momo_ixbot")
 # Don't Add style font 
